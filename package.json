@@ -1,0 +1,19 @@
+{
+  "name": "auth_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilioledo/auth_api.git"
+  },
+  "author": "Emilio Fernandez Ledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilioledo/auth_api/issues"
+  },
+  "homepage": "https://github.com/Emilioledo/auth_api#readme"
+}
